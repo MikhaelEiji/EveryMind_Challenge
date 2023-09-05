@@ -1,0 +1,454 @@
+{
+    "vagas": [
+        {
+            "id": 1,
+            "empresa": "Empresa A",
+            "titulo": "Desenvolvedor Front-end",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 5.000,00",
+            "local": "Rio de Janeiro-RJ",
+            "descricao": "Procuramos um desenvolvedor experiente em React para trabalhar em projetos desafiadores."
+        },
+        {
+            "id": 2,
+            "empresa": "Empresa B",
+            "titulo": "Analista de Marketing",
+            "cargo_de_atuacao": "Marketing",
+            "salario": "R$ 3.500,00",
+            "local": "São Paulo-SP",
+            "descricao": "Responsável por criar estratégias de marketing digital e analisar métricas de campanhas."
+        },
+        {
+            "id": 3,
+            "empresa": "HealthCare",
+            "titulo": "Enfermeiro(a) Registrado(a)",
+            "cargo_de_atuacao": "Saúde",
+            "salario": "R$ 5.500,00",
+            "local": "Brasília-DF",
+            "descricao": "Atendimento direto a pacientes, administração de medicamentos e cuidados de saúde."
+        },
+        {
+            "id": 4,
+            "empresa": "GreenTech",
+            "titulo": "Engenheiro Ambiental",
+            "cargo_de_atuacao": "Meio Ambiente",
+            "salario": "R$ 6.000,00",
+            "local": "Curitiba-PR",
+            "descricao": "Desenvolvimento de soluções sustentáveis para problemas ambientais globais."
+        },
+        {
+            "id": 5,
+            "empresa": "FoodDelight",
+            "titulo": "Chef de Cozinha",
+            "cargo_de_atuacao": "Gastronomia",
+            "salario": "R$ 7.000,00",
+            "local": "Fortaleza-CE",
+            "descricao": "Criação de pratos exclusivos e gestão de equipes de cozinha."
+        },
+        {
+            "id": 6,
+            "empresa": "FinanceCorp",
+            "titulo": "Analista Financeiro",
+            "cargo_de_atuacao": "Financeiro",
+            "salario": "R$ 6.000,00",
+            "local": "Porto Alegre-RS",
+            "descricao": "Análise de dados financeiros, elaboração de relatórios e projeções para tomada de decisões."
+        },
+        {
+            "id": 7,
+            "empresa": "TravelAdventures",
+            "titulo": "Agente de Viagens",
+            "cargo_de_atuacao": "Turismo",
+            "salario": "R$ 4.000,00",
+            "local": "Salvador-BA",
+            "descricao": "Planejamento e organização de roteiros de viagens inesquecíveis para clientes."
+        },
+        {
+            "id": 8,
+            "empresa": "ArtisticExpressions",
+            "titulo": "Artista 3D",
+            "cargo_de_atuacao": "Artes Visuais",
+            "salario": "R$ 5.500,00",
+            "local": "Recife-PE",
+            "descricao": "Criação de modelos 3D realistas para filmes, jogos e outras mídias artísticas."
+        },
+        {
+            "id": 9,
+            "empresa": "EducationInnovate",
+            "titulo": "Professor(a) de Matemática",
+            "cargo_de_atuacao": "Educação",
+            "salario": "R$ 4.500,00",
+            "local": "Manaus-AM",
+            "descricao": "Ministrar aulas de matemática, criar planos de ensino e auxiliar os alunos em seu aprendizado."
+        },
+        {
+            "id": 10,
+            "empresa": "EcoSolutions",
+            "titulo": "Especialista em Energias Renováveis",
+            "cargo_de_atuacao": "Energia",
+            "salario": "R$ 6.500,00",
+            "local": "Belém-PA",
+            "descricao": "Desenvolvimento e implementação de projetos de geração de energia a partir de fontes renováveis."
+        },
+        {
+            "id": 11,
+            "empresa": "TechStartup",
+            "titulo": "Engenheiro de Dados",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 7.500,00",
+            "local": "Natal-RN",
+            "descricao": "Desenvolvimento de pipelines de dados e análise para suportar decisões baseadas em dados."
+        },
+        {
+            "id": 12,
+            "empresa": "FashionTech",
+            "titulo": "Especialista em E-Commerce de Moda",
+            "cargo_de_atuacao": "Moda",
+            "salario": "R$ 5.000,00",
+            "local": "João Pessoa-PB",
+            "descricao": "Gestão da plataforma de e-commerce, estratégias de vendas online e experiência do cliente."
+        },
+        {
+            "id": 13,
+            "empresa": "MedicalDevices",
+            "titulo": "Engenheiro de Desenvolvimento de Dispositivos Médicos",
+            "cargo_de_atuacao": "Saúde",
+            "salario": "R$ 7.000,00",
+            "local": "São Luís-MA",
+            "descricao": "Projeto e desenvolvimento de dispositivos médicos inovadores em conformidade com regulamentações."
+        },
+        {
+            "id": 14,
+            "empresa": "RenewableMaterials",
+            "titulo": "Pesquisador de Materiais Sustentáveis",
+            "cargo_de_atuacao": "Meio Ambiente",
+            "salario": "R$ 6.000,00",
+            "local": "Teresina-PI",
+            "descricao": "Pesquisa e desenvolvimento de materiais ecologicamente corretos e de baixo impacto."
+        },
+        {
+            "id": 15,
+            "empresa": "CulinaryDelights",
+            "titulo": "Padeiro/Padeira",
+            "cargo_de_atuacao": "Gastronomia",
+            "salario": "R$ 4.000,00",
+            "local": "Aracaju-SE",
+            "descricao": "Preparo de pães, bolos e produtos de confeitaria em uma padaria renomada."
+        },
+        {
+            "id": 16,
+            "empresa": "FinancialConsult",
+            "titulo": "Consultor Financeiro",
+            "cargo_de_atuacao": "Financeiro",
+            "salario": "R$ 6.800,00",
+            "local": "Campo Grande-MS",
+            "descricao": "Assessoria financeira personalizada para clientes, oferecendo orientação sobre investimentos e planejamento."
+        },
+        {
+            "id": 17,
+            "empresa": "AdventureTours",
+            "titulo": "Guia de Turismo",
+            "cargo_de_atuacao": "Turismo",
+            "salario": "R$ 3.500,00",
+            "local": "Vitória-ES",
+            "descricao": "Acompanhamento e narrativa de tours emocionantes para grupos de turistas."
+        },
+        {
+            "id": 18,
+            "empresa": "DigitalArtistry",
+            "titulo": "Ilustrador Digital",
+            "cargo_de_atuacao": "Artes Visuais",
+            "salario": "R$ 4.800,00",
+            "local": "Porto Velho-RO",
+            "descricao": "Criação de ilustrações digitais para publicidade, livros e mídias sociais."
+        },
+        {
+            "id": 19,
+            "empresa": "LanguageInstitute",
+            "titulo": "Instrutor de Idiomas",
+            "cargo_de_atuacao": "Educação",
+            "salario": "R$ 3.800,00",
+            "local": "Boa Vista-RR",
+            "descricao": "Ministrar aulas de idiomas estrangeiros, focando na comunicação e habilidades linguísticas."
+        },
+        {
+            "id": 20,
+            "empresa": "SolarPowerTech",
+            "titulo": "Engenheiro de Energia Solar",
+            "cargo_de_atuacao": "Energia",
+            "salario": "R$ 7.000,00",
+            "local": "Palmas-TO",
+            "descricao": "Projeto e instalação de sistemas de energia solar, otimizando a geração e utilização de energia limpa."
+        },
+        {
+            "id": 21,
+            "empresa": "Negócios Inc.",
+            "titulo": "Gerente de Desenvolvimento de Negócios",
+            "cargo_de_atuacao": "Negócios",
+            "salario": "R$ 8.000,00",
+            "local": "São Paulo-SP",
+            "descricao": "Responsável por expandir a carteira de clientes e identificar oportunidades de crescimento."
+        },
+        {
+            "id": 22,
+            "empresa": "Tech Innovate",
+            "titulo": "Engenheiro de Software",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 9.000,00",
+            "local": "Rio de Janeiro-RJ",
+            "descricao": "Desenvolvimento de software e soluções tecnológicas inovadoras."
+        },
+        {
+            "id": 23,
+            "empresa": "Admin Solutions",
+            "titulo": "Analista de Administração",
+            "cargo_de_atuacao": "Administração",
+            "salario": "R$ 7.500,00",
+            "local": "Brasília-DF",
+            "descricao": "Análise e otimização de processos administrativos da empresa."
+        },
+        {
+            "id": 24,
+            "empresa": "SalesForce",
+            "titulo": "Representante de Vendas",
+            "cargo_de_atuacao": "Vendas",
+            "salario": "R$ 6.500,00",
+            "local": "Fortaleza-CE",
+            "descricao": "Prospecção de clientes e fechamento de negócios."
+        },
+        {
+            "id": 25,
+            "empresa": "HR Excellence",
+            "titulo": "Especialista em Recursos Humanos",
+            "cargo_de_atuacao": "RH",
+            "salario": "R$ 7.200,00",
+            "local": "Porto Alegre-RS",
+            "descricao": "Gestão de recrutamento, seleção e desenvolvimento de talentos."
+        },
+        {
+            "id": 26,
+            "empresa": "LegalConsult",
+            "titulo": "Advogado(a) Corporativo(a)",
+            "cargo_de_atuacao": "Jurídico",
+            "salario": "R$ 8.500,00",
+            "local": "Salvador-BA",
+            "descricao": "Assessoria jurídica para questões corporativas e contratuais."
+        },
+        {
+            "id": 27,
+            "empresa": "Marketing Pro",
+            "titulo": "Especialista em Marketing Digital",
+            "cargo_de_atuacao": "Marketing",
+            "salario": "R$ 6.800,00",
+            "local": "Recife-PE",
+            "descricao": "Planejamento e execução de estratégias de marketing digital."
+        },
+        {
+            "id": 28,
+            "empresa": "Finance Experts",
+            "titulo": "Analista Financeiro Sênior",
+            "cargo_de_atuacao": "Financeiro",
+            "salario": "R$ 9.200,00",
+            "local": "Manaus-AM",
+            "descricao": "Análise financeira avançada e projeções para a alta administração."
+        },
+        {
+            "id": 29,
+            "empresa": "HealthCare Plus",
+            "titulo": "Médico(a) Clínico Geral",
+            "cargo_de_atuacao": "Saúde",
+            "salario": "R$ 12.000,00",
+            "local": "Belém-PA",
+            "descricao": "Atendimento a pacientes, diagnóstico e prescrição de tratamentos médicos."
+        },
+        {
+            "id": 30,
+            "empresa": "HealthTech Solutions",
+            "titulo": "Desenvolvedor de Software Médico",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 9.500,00",
+            "local": "Natal-RN",
+            "descricao": "Desenvolvimento de software para a área médica e de saúde."
+        },
+        {
+            "id": 31,
+            "empresa": "Business Growth",
+            "titulo": "Analista de Estratégia de Negócios",
+            "cargo_de_atuacao": "Negócios",
+            "salario": "R$ 7.800,00",
+            "local": "São Luís-MA",
+            "descricao": "Análise de mercado e desenvolvimento de estratégias de crescimento."
+        },
+        {
+            "id": 32,
+            "empresa": "Tech Solutions",
+            "titulo": "Arquiteto de Software",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 10.000,00",
+            "local": "Teresina-PI",
+            "descricao": "Projetar e desenvolver arquiteturas de software para sistemas complexos."
+        },
+        {
+            "id": 33,
+            "empresa": "Admin Support",
+            "titulo": "Assistente Administrativo",
+            "cargo_de_atuacao": "Administração",
+            "salario": "R$ 5.800,00",
+            "local": "Boa Vista-RR",
+            "descricao": "Suporte administrativo em tarefas de rotina da empresa."
+        },
+        {
+            "id": 34,
+            "empresa": "Sales Accelerate",
+            "titulo": "Gerente de Contas",
+            "cargo_de_atuacao": "Vendas",
+            "salario": "R$ 8.200,00",
+            "local": "Vitória-ES",
+            "descricao": "Gestão de contas e relacionamento com clientes corporativos."
+        },
+        {
+            "id": 35,
+            "empresa": "HR Solutions",
+            "titulo": "Analista de Treinamento e Desenvolvimento",
+            "cargo_de_atuacao": "RH",
+            "salario": "R$ 6.900,00",
+            "local": "Palmas-TO",
+            "descricao": "Desenvolvimento de programas de treinamento e capacitação de funcionários."
+        },
+        {
+            "id": 36,
+            "empresa": "Legal Associates",
+            "titulo": "Advogado(a) Trabalhista",
+            "cargo_de_atuacao": "Jurídico",
+            "salario": "R$ 9.500,00",
+            "local": "Porto Velho-RO",
+            "descricao": "Assessoria jurídica em questões trabalhistas e relações sindicais."
+        },
+        {
+            "id": 37,
+            "empresa": "Marketing Insights",
+            "titulo": "Analista de Pesquisa de Mercado",
+            "cargo_de_atuacao": "Marketing",
+            "salario": "R$ 7.500,00",
+            "local": "Macapá-AP",
+            "descricao": "Realizar pesquisas de mercado e análise de dados para orientar estratégias de marketing."
+        },
+        {
+            "id": 38,
+            "empresa": "Finance Investments",
+            "titulo": "Analista de Investimentos",
+            "cargo_de_atuacao": "Financeiro",
+            "salario": "R$ 10.500,00",
+            "local": "Cuiabá-MT",
+            "descricao": "Análise de investimentos e gestão de carteira de ativos financeiros."
+        },
+        {
+            "id": 39,
+            "empresa": "HealthClinic",
+            "titulo": "Enfermeiro(a) Especialista",
+            "cargo_de_atuacao": "Saúde",
+            "salario": "R$ 8.700,00",
+            "local": "Florianópolis-SC",
+            "descricao": "Atendimento especializado em enfermagem em uma clínica médica."
+        },
+        {
+            "id": 40,
+            "empresa": "MedTech Innovations",
+            "titulo": "Cientista de Dados em Saúde",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 11.000,00",
+            "local": "João Pessoa-PB",
+            "descricao": "Análise de dados de saúde para insights e inovações na área médica."
+        },
+        {
+            "id": 41,
+            "empresa": "Business Strategies",
+            "titulo": "Consultor de Estratégia de Negócios",
+            "cargo_de_atuacao": "Negócios",
+            "salario": "R$ 9.200,00",
+            "local": "Campo Grande-MS",
+            "descricao": "Consultoria estratégica para empresas visando o crescimento."
+        },
+        {
+            "id": 42,
+            "empresa": "Tech Innovators",
+            "titulo": "Engenheiro de Machine Learning",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 12.000,00",
+            "local": "Aracaju-SE",
+            "descricao": "Desenvolvimento de algoritmos de machine learning para aplicações avançadas."
+        },
+        {
+            "id": 43,
+            "empresa": "Admin Pro",
+            "titulo": "Gerente de Operações",
+            "cargo_de_atuacao": "Administração",
+            "salario": "R$ 10.500,00",
+            "local": "Porto Seguro-BA",
+            "descricao": "Gerenciamento das operações internas da empresa para eficiência e qualidade."
+        },
+        {
+            "id": 44,
+            "empresa": "Sales Boost",
+            "titulo": "Representante de Vendas Técnicas",
+            "cargo_de_atuacao": "Vendas",
+            "salario": "R$ 7.800,00",
+            "local": "Boa Vista-RR",
+            "descricao": "Vendas técnicas de produtos ou serviços especializados."
+        },
+        {
+            "id": 45,
+            "empresa": "HR Solutions",
+            "titulo": "Especialista em Gestão de Talentos",
+            "cargo_de_atuacao": "RH",
+            "salario": "R$ 8.900,00",
+            "local": "Macapá-AP",
+            "descricao": "Gestão estratégica de talentos e desenvolvimento de liderança."
+        },
+        {
+            "id": 46,
+            "empresa": "Legal Counsel",
+            "titulo": "Advogado(a) de Propriedade Intelectual",
+            "cargo_de_atuacao": "Jurídico",
+            "salario": "R$ 11.200,00",
+            "local": "São Luís-MA",
+            "descricao": "Assessoria jurídica em questões de propriedade intelectual e patentes."
+        },
+        {
+            "id": 47,
+            "empresa": "Digital Marketing",
+            "titulo": "Especialista em SEO",
+            "cargo_de_atuacao": "Marketing",
+            "salario": "R$ 7.200,00",
+            "local": "Vitória-ES",
+            "descricao": "Otimização de mecanismos de busca para aumentar a visibilidade online."
+        },
+        {
+            "id": 48,
+            "empresa": "Finance Experts",
+            "titulo": "Analista de Risco Financeiro",
+            "cargo_de_atuacao": "Financeiro",
+            "salario": "R$ 10.800,00",
+            "local": "Cuiabá-MT",
+            "descricao": "Análise de risco de investimentos e operações financeiras."
+        },
+        {
+            "id": 49,
+            "empresa": "HealthCare Plus",
+            "titulo": "Fisioterapeuta",
+            "cargo_de_atuacao": "Saúde",
+            "salario": "R$ 7.500,00",
+            "local": "Florianópolis-SC",
+            "descricao": "Tratamento fisioterapêutico para pacientes com diversas condições de saúde."
+        },
+        {
+            "id": 50,
+            "empresa": "MedTech Innovations",
+            "titulo": "Analista de Dados Clínicos",
+            "cargo_de_atuacao": "Tecnologia",
+            "salario": "R$ 11.500,00",
+            "local": "João Pessoa-PB",
+            "descricao": "Análise de dados clínicos para avanços na medicina e pesquisa."
+        }
+    ]
+}
