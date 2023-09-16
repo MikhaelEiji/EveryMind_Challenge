@@ -1,2 +1,3 @@
-# EveryMind_Challenge
+# EY_Challenge
+
 npx json-server --watch db.json
